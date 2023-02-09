@@ -1,13 +1,4 @@
 ### Hi there 👋
-<p align="center">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=vibhoraggarwal&hide=cmake,tex">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibhoraggarwal&hide=cmake,tex" />
-  </a>
-
-  <a href="https://github-readme-stats.vercel.app/api?username=vibhoraggarwal&show_icons=true">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=vibhoraggarwal&show_icons=true" />
-  </a>
-</p>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=vibhoraggarwal.vibhoraggarwal)
 <!--

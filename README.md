@@ -17,7 +17,11 @@
   <a href="https://www.strava.com/athletes/21880684"><img src="https://github.com/vibhoraggarwal/vibhoraggarwal/blob/master/social-icons/Strava.png" width="4%" height="4%" alt="Strava"></a>
   <a href="https://www.youtube.com/channel/UC2epvqe_B6NPG-9FgQbOSHQ?view_as=subscriber"><img src="https://github.com/vibhoraggarwal/vibhoraggarwal/blob/master/social-icons/YouTube.png" width="4%" height="4%" alt="YouTube"></a>
 </p>
+
+:link: [Know more](https://yeshasvitirupachuri.github.io/)
+
 [Know more](https://vibhoraggarwal.github.io/)
+
 [visitors](https://visitor-badge.laobi.icu/badge?page_id=vibhoraggarwal.vibhoraggarwal)
 <!--
 **vibhoraggarwal/vibhoraggarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

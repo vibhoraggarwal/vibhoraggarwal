@@ -18,9 +18,7 @@
   <a href="https://www.youtube.com/channel/UC2epvqe_B6NPG-9FgQbOSHQ?view_as=subscriber"><img src="https://github.com/vibhoraggarwal/vibhoraggarwal/blob/master/social-icons/YouTube.png" width="4%" height="4%" alt="YouTube"></a>
 </p>
 
-:link: [Know more](https://yeshasvitirupachuri.github.io/)
-
-[Know more](https://vibhoraggarwal.github.io/)
+:link: [Know more](https://vibhoraggarwal.github.io/)
 
 [visitors](https://visitor-badge.laobi.icu/badge?page_id=vibhoraggarwal.vibhoraggarwal)
 <!--

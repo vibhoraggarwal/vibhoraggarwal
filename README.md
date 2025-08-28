@@ -15,7 +15,8 @@ When I am not working I am reading or hearing books, learning languages on [Duol
   </a>
 </p>
 
-Follow me on social media:
+### Follow me on social media
+
 <p align="center">
   <a href="https://github.com/vibhoraggarwal/"><img src="social-icons/github.png" width="4%" height="4%" alt="Github"></a>
   <a href="https://www.linkedin.com/in/vibhoraggarwal/"><img src="social-icons/linkedin.png" width="4%" height="4%" alt="LinkedIn"></a>
